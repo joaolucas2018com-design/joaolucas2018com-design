@@ -1,172 +1,162 @@
-md
-     <div align="center">
-     👋 Olá, eu sou o João Lucas
-     🚚 Logística • ⚙️ Automações • 📊 Dados • 💻 Desenvolvimento
+<div align="center">
 
-     <img
-     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Transfor
-     mando+problemas+operacionais+em+sistemas;Log%C3%ADstica+%2B+Automa%C3%A7%C3%A3o+%2B+IA;ADS+%7C+Python+%7C+JavaScript+%7C+BI+%7C+SAP"
-     alt="Typing SVG" />
+# 👋 Olá, eu sou o João Lucas
 
-     </div>
-     💫 About Me
+### 🚚 Logística • ⚙️ Automações • 📊 Dados • 💻 Desenvolvimento
 
-     yaml
-     nome: João Lucas
-     área: Logística, processos e automações
-     empresa: C.Vale
-     formação: Análise e Desenvolvimento de Sistemas
-     foco: Soluções reais para problemas operacionais
-     interesses:
-       - Python
-       - JavaScript / Node.js
-       - Excel / VBA
-       - SAP
-       - BI / Power BI
-       - SQLite
-       - IA aplicada
-       - Automações
-     ambiente:
-       - Windows
-       - WSL
-       - GitHub
-       - Obsidian
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Transformando+problemas+operacionais+em+sistemas;Log%C3%ADstica+%2B+Automa%C3%A7%C3%A3o+%2B+IA;ADS+%7C+Python+%7C+JavaScript+%7C+BI+%7C+SAP" alt="Typing SVG" />
 
-     🚀 O que eu gosto de construir
+</div>
 
-     - ⚙️ Automações para reduzir trabalho manual
-     - 📊 Dashboards e indicadores para tomada de decisão
-     - 🧠 Sistemas com IA aplicada ao mundo real
-     - 🗄️ Soluções locais com banco de dados
-     - 🚚 Ferramentas para logística, pátio, operação e controle
-     - 🧩 Projetos simples, úteis e evolutivos
+---
 
-     > “Menos teoria parada, mais solução funcionando.” ⚡
-     💻 Tech Stack
+## 💫 About Me
 
-     <div align="center">
+```yaml
+nome: João Lucas
+área: Logística, processos e automações
+empresa: C.Vale
+formação: Análise e Desenvolvimento de Sistemas
+foco: Soluções reais para problemas operacionais
+interesses:
+  - Python
+  - JavaScript / Node.js
+  - Excel / VBA
+  - SAP
+  - BI / Power BI
+  - SQLite
+  - IA aplicada
+  - Automações
+ambiente:
+  - Windows
+  - WSL
+  - GitHub
+  - Obsidian
+```
 
-     Python
-     JavaScript
-     Node.js
-     HTML5
-     SQLite
-     Power BI
-     Excel
-     VBA
-     SAP
-     Git
-     WSL
+---
 
-     </div>
-     🧠 Minha linha de evolução
+## 🚀 O que eu gosto de construir
 
-     txt
-     Operação real
-        ↓
-     Problema repetitivo
-        ↓
-     Automação simples
-        ↓
-     Indicador confiável
-        ↓
-     Sistema útil
-        ↓
-     Melhoria contínua
+- ⚙️ Automações para reduzir trabalho manual
+- 📊 Dashboards e indicadores para tomada de decisão
+- 🧠 Sistemas com IA aplicada ao mundo real
+- 🗄️ Soluções locais com banco de dados
+- 🚚 Ferramentas para logística, pátio, operação e controle
+- 🧩 Projetos simples, úteis e evolutivos
 
-     🐍 Snake Game
+> “Menos teoria parada, mais solução funcionando.” ⚡
 
-     <div align="center">
+---
 
-     Snake animation
+## 💻 Tech Stack
 
-     </div>
-     📊 GitHub Stats
+<div align="center">
 
-     <div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-185ABD?style=for-the-badge&logo=microsoft&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
-     <img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=joaolucas2018com-design&theme=tokyonight&hide_border=true&show_icons=true&count_p
-     rivate=true" />
-     <img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucas2018com-design&theme=tokyonight&hide_border=true&layout=compa
-     ct" />
+</div>
 
-     <br>
+---
 
-     <img src="https://streak-stats.demolab.com?user=joaolucas2018com-design&theme=tokyonight&hide_border=true" />
+## 🧠 Minha linha de evolução
 
-     </div>
-     📈 Activity Graph
+```txt
+Operação real
+   ↓
+Problema repetitivo
+   ↓
+Automação simples
+   ↓
+Indicador confiável
+   ↓
+Sistema útil
+   ↓
+Melhoria contínua
+```
 
-     <div align="center">
+---
 
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucas2018com-design&theme=tokyo-night&hide_border=true" />
+## 🐍 Snake Game
 
-     </div>
-     🏆 GitHub Trophies
+<div align="center">
 
-     <div align="center">
+![Snake animation](https://raw.githubusercontent.com/joaolucas2018com-design/joaolucas2018com-design/output/github-contribution-grid-snake-dark.svg)
 
-     <img src="https://github-profile-trophy.vercel.app/?username=joaolucas2018com-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-     />
+</div>
 
-     </div>
-     🧰 Projetos e foco atual
+---
 
-     - 🚚 Sistema de controle operacional / pátio
-     - 📊 BI com indicadores auditáveis
-     - 🤖 Automações com IA
-     - 🗃️ Organização técnica com Obsidian
-     - ⚙️ Integrações entre operação, dados e sistemas
-     🌐 Onde me encontrar
+## 📊 GitHub Stats
 
-     <div align="center">
+<div align="center">
 
-     GitHub
-     LinkedIn
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaolucas2018com-design&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucas2018com-design&theme=tokyonight&hide_border=true&layout=compact" />
 
-     </div>
+<br>
 
-     <div align="center">
-     ⚡ Sempre aprendendo, testando e criando soluções úteis.
+<img src="https://streak-stats.demolab.com?user=joaolucas2018com-design&theme=tokyonight&hide_border=true" />
 
-     Profile Views
+</div>
 
-     </div>
+---
 
-     Para a cobrinha funcionar, crie este arquivo também:
+## 📈 Activity Graph
 
-     .github/workflows/snake.yml
+<div align="center">
 
-     yml
-     name: Generate Snake
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucas2018com-design&theme=tokyo-night&hide_border=true" />
 
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
+</div>
 
-     permissions:
-       contents: write
+---
 
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
+## 🏆 GitHub Trophies
 
-         steps:
-           - name: Generate snake animation
-             uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: joaolucas2018com-design
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<div align="center">
 
-           - name: Push snake to output branch
-             uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://github-profile-trophy.vercel.app/?username=joaolucas2018com-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+## 🧰 Projetos e foco atual
+
+- 🚚 Sistema de controle operacional / pátio
+- 📊 BI com indicadores auditáveis
+- 🤖 Automações com IA
+- 🗃️ Organização técnica com Obsidian
+- ⚙️ Integrações entre operação, dados e sistemas
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-joaolucas2018com--design-181717?style=for-the-badge&logo=github)](https://github.com/joaolucas2018com-design)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Lucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Sempre aprendendo, testando e criando soluções úteis.
+
+![Profile Views](https://komarev.com/ghpvc/?username=joaolucas2018com-design&style=for-the-badge&color=blueviolet)
+
+</div>
